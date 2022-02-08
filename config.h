@@ -7,13 +7,14 @@ static const Block blocks[] = {
 	{"",	"sb-music",	0,	11},
 	{"",	"sb-pacpackages",	0,	8},
 	{"",	"sb-news",		0,	6},
-	/* {"",	"sb-price lbc \"LBRY Token\" 📚",			9000,	22}, */
-	/* {"",	"sb-price bat \"Basic Attention Token\" 🦁",	9000,	20}, */
+	{"",	"sb-price lbc \"LBRY Token\" 📚",			9000,	22},
+	{"",	"sb-price bat \"Basic Attention Token\" 🦁",	9000,	20},
 	/* {"",	"sb-price link \"Chainlink\" 🔗",			300,	25}, */
-	{"",	"sb-price xmr \"Monero\" 🔒",			9000,	24},
+	/* {"",	"sb-price xmr \"Monero\" 🔒",			9000,	24}, */
+	{"",	"sb-price ada \"Cardano\" ₳",			9000,	24},
 	/* {"",	"sb-covid",	9000,	24}, */
-	{"",	"sb-price eth Ethereum 🍸",	9000,	23},
-	{"",	"sb-price btc Bitcoin 💰",				9000,	21},
+	/* {"",	"sb-price eth Ethereum 🍸",	9000,	23}, */
+	/* {"",	"sb-price btc Bitcoin 💰",				9000,	21}, */
 	{"",	"sb-torrent",	20,	7},
 	{"",	"sb-disk",	100,	14},
 	{"",	"sb-memory",	10,	14},
