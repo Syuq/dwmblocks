@@ -12,7 +12,7 @@ static const Block blocks[] = {
 	{"",	"sb-price bat \"Basic Attention Token\" 🦁",	9000,	20},
 	/* {"",	"sb-price link \"Chainlink\" 🔗",			300,	25}, */
 	/* {"",	"sb-price xmr \"Monero\" 🔒",			9000,	24}, */
-	{"",	"sb-price ada \"Cardano\" ₳",			9000,	24},
+	/* {"",	"sb-price ada \"Cardano\" ₳",			9000,	24}, */
 	/* {"",	"sb-covid",	9000,	24}, */
 	{"",	"sb-price eth Ethereum 🍸",	9000,	23},
 	{"",	"sb-price btc Bitcoin 💰",	9000,	21},
