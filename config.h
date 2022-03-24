@@ -27,7 +27,7 @@ static const Block blocks[] = {
 	{"",	"sb-nettraf",	1,	16},
 	{"",	"sb-volume",	0,	10},
 	{"",	"sb-battery",	5,	3},
-	/* {"",	"sb-clock",	60,	1}, */
+	{"",	"sb-clock",	60,	1},
 	{"",	"sb-internet",	5,	4},
 	/* {"",	"sb-help-icon",	0,	15}, */
 };
